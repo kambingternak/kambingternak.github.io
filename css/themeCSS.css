@@ -230,7 +230,7 @@ ul {
     background-color: black;
 }
 
-.carousel-item h1 {
+.carousel-item h2 {
     font-family: 'Bebas Neue', cursive;
     font-weight: 900;
     font-size: 60px;
@@ -280,6 +280,10 @@ ul {
     display: flex;
     width: 90%;
     margin-left: 5%;
+}
+
+.part-welcome h3 {
+    font-size: 40px;
 }
 
 .part-welcome img {
